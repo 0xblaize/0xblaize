@@ -140,7 +140,7 @@ export default function Hero() {
         </h1>
 
         <div className="min-h-screen flex items-center px-9 relative -mt-32">
-          <div className="absolute right-170 top-40 gap-6 ">
+          <div className="absolute right-140 top-40 gap-6 ">
             <span className="text-4xl">⇘</span>
             <p className=""> Fullstack</p>
             <p className="">Solidity Dev</p>
