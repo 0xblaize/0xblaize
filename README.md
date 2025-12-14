@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hello, there! <br />
 
-## Getting Started
+I am a passionate Full-Stack and Blockchain Developer with 8 years of software engineering experience.<br />
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Favorite Saying 👍
+
+```rust
+/// Inspiration from the words of Linus Torvalds
+struct CodeMotivation;
+
+impl CodeMotivation {
+  /// Returns a quote capturing the essence of programming
+  fn quote(&self) -> &str {
+    "Good programmers do programming not for payment or praise, but because they find joy in it."
+  }
+}
+
+fn main() {
+  let motivation = CodeMotivation;
+
+  println!("Developer's Creed: \"{}\"", motivation.quote());
+}
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚡ My Skills
+<br />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<table align="center">
+  <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+        <br>Javascript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+        <br>Typescript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="Haskell" />
+        <br>Haskell
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+          </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+          <br>Python
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C++" />
+            <br>C++
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+            <br>Go
+        </td>
+        <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+          <br>Django
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+          <br>Java
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+          <br>PHP
+        </td>
+    </tr>
+</table>
+<h2></h2>
