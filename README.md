@@ -96,3 +96,5 @@ fn main() {
     </tr>
 </table>
 <h2></h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xblaize&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
