@@ -1,6 +1,6 @@
 # 👋 Hello, there! <br />
 
-I am a passionate Full-Stack and Blockchain Developer with 5+ years of software engineering experience.<br />
+I am a passionate Full-Stack and Blockchain Developer with 5+ years of software engineering experience 1x hackathon winner.<br />
 
 https://0xblaize-v36z.vercel.app/
 ## Favorite Saying 👍
